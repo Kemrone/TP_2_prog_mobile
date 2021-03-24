@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="d_terminez_votre_poids">Enter your weight</string>
+    <string name="d_terminez_votre_taille">Enter your size</string>
+    <string name="poids">Weight</string>
+    <string name="taille">Size</string>
+    <string name="m_tre">Meter</string>
+    <string name="centim_tre">Centimeter</string>
+    <string name="appr_ciation">Appreciation</string>
+    <string name="calculer_l_imc">Determine BMI</string>
+    <string name="r_sultat">Result</string>
+    <string name="vous_devez_cliquer_sur_le_bouton_calculer_l_imc_pour_obtenir_un_r_sultat">You must click the \"Determine BMI\" button to get your result</string>
+    <string name="error1">Size must be > 0</string>
+    <string name="error2">Weight must be > 0</string>
+    <string name="resultat">Your BMI is</string>
+    <string name="famine">Your in starvation</string>
+    <string name="maigreur">You\'re skinny</string>
+    <string name="normal">You got a normal corpulence</string>
+    <string name="surpoids">You\'re overweight</string>
+    <string name="obesiteModeree">You\'ve got obesity</string>
+    <string name="severe">You\'ve got a severe obesity</string>
+    <string name="morbide">You\'ve got morbid obesity</string>
+</resources>
